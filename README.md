@@ -358,6 +358,70 @@ Visit `http://localhost:3000` to access PredictPro!
 4. **Add Liquidity**: Add liquidity to enable trading
 5. **Place Bet**: Bet on the market outcome
 
+## 🎥 System Demo Videos
+
+### Live System Demonstrations
+
+We've recorded comprehensive demo videos showing the complete system in action:
+
+#### **1. Market Creation & Multi-User Scenarios**
+**🔗 [Watch Demo 1: Market Creation Flow](https://jam.dev/c/608243a3-520c-4901-9ef9-9355988749ac)**
+- Complete market creation process
+- Multiple user address scenarios
+- Wallet connection and setup
+- Market metadata and configuration
+
+#### **2. Trading & Token Exchange Overview**
+**🔗 [Watch Demo 2: Trading & Transactions](https://jam.dev/c/cb557986-672f-4763-b7e4-acfbe393e2f9)**
+- Token trading and exchange
+- AMM-based pricing mechanism
+- Transaction execution and confirmation
+- Real-time balance updates
+
+#### **3. Off-Chain Backend Overview**
+**🔗 [Watch Demo 3: Backend Analytics](https://jam.dev/c/787a9095-f338-4b21-ab3f-69a137bbf8e4)**
+- Backend API functionality
+- Database operations and analytics
+- Transaction tracking and metadata storage
+- Off-chain infrastructure overview
+
+### Demo Highlights
+
+These videos demonstrate:
+- ✅ **Complete User Flows**: From wallet connection to claiming winnings
+- ✅ **Multi-User Scenarios**: Different addresses and user interactions
+- ✅ **Real-Time Trading**: Live token exchanges with AMM pricing
+- ✅ **Backend Integration**: Off-chain data storage and analytics
+- ✅ **Production Quality**: Smooth UI/UX with proper error handling
+- ✅ **Full-Stack Integration**: Frontend, backend, and smart contracts working together
+
+## 🔗 Live Transaction Examples
+
+### Real Blockchain Activity
+
+Here are actual transactions from our testing on Avalanche Fuji testnet:
+
+#### **Transaction Samples from Testing:**
+
+1. **🔗 [Transaction 1: Market Creation](https://testnet.snowtrace.io/tx/0x0200cd679278ef8e050c9c2f012df1eff9717ccb30925f9d6562cda3921fc3af)**
+   - Market creation transaction
+   - Outcome token deployment
+   - Gas usage and execution details
+
+2. **🔗 [Transaction 2: Trading Activity](https://testnet.snowtrace.io/tx/0xf0e1db3676f4eae89fb8db8b9052ab2e68724f338b93a381edeea26a42eea5c1)**
+   - Token trading transaction
+   - AMM-based share exchange
+   - Real-time price execution
+
+### Transaction Verification
+
+These transactions prove:
+- ✅ **Live Deployment**: Contracts are deployed and functional on Avalanche Fuji
+- ✅ **Real Trading**: Actual token exchanges with AMM pricing
+- ✅ **Gas Optimization**: Efficient transaction execution
+- ✅ **Blockchain Integration**: Full on-chain functionality working
+- ✅ **Testnet Activity**: Comprehensive testing with real transactions
+
 ## 🛠️ Troubleshooting
 
 ### Common Issues and Solutions
