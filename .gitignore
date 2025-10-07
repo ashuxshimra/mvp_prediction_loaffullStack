@@ -1,0 +1,33 @@
+# Foundry
+cache/
+out/
+broadcast/
+.env
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Build artifacts
+*.log
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+lcov.info
+
+# Deployment
+deployments/*.json
+!deployments/.gitkeep
